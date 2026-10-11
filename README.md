@@ -71,7 +71,7 @@ A deep learning framework for **high-throughput docking score prediction**. Neur
 
 ## ◈ Academic collaborations
 
-I welcome research collaborations involving **AI for science**, **computational drug discovery**, **bioinformatics**, and **reproducible scientific software**. For publications, institutional details, and academic background, see my [Lattes CV](http://lattes.cnpq.br/1449902596670082) or [institutional profile](http://www.somos.cefetmg.br/professores/view/2818).
+I welcome research collaborations involving **AI for science**, **computational drug discovery**, **bioinformatics**, and **reproducible scientific software**. For publications, institutional details, and academic background, see my [Lattes CV](http://lattes.cnpq.br/1449902596670082) or [institutional profile](https://sig.cefetmg.br/sigaa/public/docente/portal.jsf?siape=2147282).
 
 <div align="center">
 
