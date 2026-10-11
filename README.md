@@ -88,7 +88,7 @@ I am a **university professor and researcher at CEFET-MG, Brazil**, working at t
 
 ## Connect & collaborate
 
-Open to academic collaborations in **AI for science, computational molecular research, and research software**. Explore my [academic CV](http://lattes.cnpq.br/1449902596670082), [institutional profile](http://www.somos.cefetmg.br/professores/view/2818), or [LinkedIn](https://www.linkedin.com/in/michelpiressilva/).
+Open to academic collaborations in **AI for science, computational molecular research, and research software**. Explore my [Lattes](http://lattes.cnpq.br/1449902596670082), [institutional profile](https://sig.cefetmg.br/sigaa/public/docente/portal.jsf?siape=2147282), or [LinkedIn](https://www.linkedin.com/in/michelpiressilva/).
 
 <div align="center">
 
