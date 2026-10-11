@@ -5,8 +5,8 @@
 <br/>
 
 [![](https://img.shields.io/badge/CEFET--MG-Professor%20%26%20Researcher-16476A?style=for-the-badge)](https://www.cefetmg.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelpiressilva/)
-[![Lattes](https://img.shields.io/badge/Lattes-Academic%20CV-176B91?style=for-the-badge)](http://lattes.cnpq.br/1449902596670082)
+[![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelpiressilva/)
+[![](https://img.shields.io/badge/Lattes-Academic%20CV-176B91?style=for-the-badge)](http://lattes.cnpq.br/1449902596670082)
 
 **Artificial Intelligence · Bioinformatics · Computational Drug Discovery**
 
