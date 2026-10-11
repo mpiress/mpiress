@@ -1,10 +1,18 @@
-# Como publicar o perfil
+# Como publicar esta nova versão do perfil
 
-1. Crie um repositório **público** chamado `mpiress` na conta `mpiress` (ou abra o repositório existente, se já houver).
-2. Envie o arquivo `README.md` e a pasta `assets/` sem alterar sua estrutura.
-3. Confirme que as imagens estão visíveis em `https://github.com/mpiress`.
-4. No perfil, use **Customize your pins** para destacar `BioMolExplorer` e outros projetos pertinentes.
-5. **NeuroDock**: adicione o link oficial do repositório ou do artigo na seção NeuroDock quando estiver disponível. Não use um repositório homônimo de terceiros.
-6. Altere as descrições e links conforme suas preferências. Os SVGs locais funcionam sem serviços externos; os badges do Shields.io dependem desse serviço.
+1. Abra o repositório especial `mpiress/mpiress` no GitHub.
+2. Substitua o arquivo `README.md` atual por este novo `README.md`.
+3. Envie também a pasta `assets/` para manter o banner visual do topo.
+4. Confira se as imagens locais estão sendo carregadas corretamente.
+5. Se desejar, substitua o bloco do **NeuroDock** pelo link oficial do repositório ou do artigo assim que ele estiver público.
 
-As imagens SVG são arquivos vetoriais editáveis. Para alterar textos, cores ou tamanhos, edite diretamente os arquivos da pasta `assets/`.
+## Sugestão de destaque no perfil
+
+Use a opção **Customize your pins** para fixar os repositórios:
+- `BioMolExplorer`
+- `NeuroDock` (quando disponível)
+- outros projetos estratégicos de IA, bioinformática ou software científico.
+
+## Observação importante
+
+O GitHub README aceita HTML básico, tabelas, imagens e badges, mas não aceita CSS personalizado complexo. Por isso, o layout foi construído com tabelas, títulos, badges e blocos estruturados para simular caixas visuais e cards modernos.
