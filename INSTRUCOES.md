@@ -1,18 +1,8 @@
-# Como publicar esta nova versão do perfil
+# Perfil GitHub — versão 3
 
-1. Abra o repositório especial `mpiress/mpiress` no GitHub.
-2. Substitua o arquivo `README.md` atual por este novo `README.md`.
-3. Envie também a pasta `assets/` para manter o banner visual do topo.
-4. Confira se as imagens locais estão sendo carregadas corretamente.
-5. Se desejar, substitua o bloco do **NeuroDock** pelo link oficial do repositório ou do artigo assim que ele estiver público.
-
-## Sugestão de destaque no perfil
-
-Use a opção **Customize your pins** para fixar os repositórios:
-- `BioMolExplorer`
-- `NeuroDock` (quando disponível)
-- outros projetos estratégicos de IA, bioinformática ou software científico.
-
-## Observação importante
-
-O GitHub README aceita HTML básico, tabelas, imagens e badges, mas não aceita CSS personalizado complexo. Por isso, o layout foi construído com tabelas, títulos, badges e blocos estruturados para simular caixas visuais e cards modernos.
+1. Publique no repositório **público** `mpiress/mpiress`.
+2. Mantenha `README.md` e a pasta `assets/` no mesmo nível.
+3. Confira em https://github.com/mpiress a renderização dos cartões e imagens.
+4. O card do **NeuroDock** não aponta para um repositório de terceiros. Quando houver um link público oficial, inclua-o na área indicada no README.
+5. As caixas são arquivos SVG (em `assets/`) usados como imagens. O GitHub não oferece suporte a CSS arbitrário, então essa solução oferece aparência consistente nos temas claro e escuro.
+6. Para alterar textos curtos dos cards, edite os SVGs com um editor vetorial ou de texto. Os botões clicáveis são links Markdown/HTML externos aos SVGs.

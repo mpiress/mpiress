@@ -1,140 +1,65 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Michel Pires da Silva — Artificial Intelligence and Bioengineering" />
+<img src="assets/hero.svg" width="100%" alt="Michel Pires — Computational Science, AI and Bioengineering" />
 
 <br/>
-<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mpiress-0D1117?style=for-the-badge&logo=github)](https://github.com/mpiress)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michel%20Pires-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelpiressilva/)
-[![Lattes](https://img.shields.io/badge/Lattes-Academic%20CV-176B91?style=for-the-badge)](http://lattes.cnpq.br/1449902596670082)
 [![CEFET-MG](https://img.shields.io/badge/CEFET--MG-Professor%20%26%20Researcher-16476A?style=for-the-badge)](https://www.cefetmg.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelpiressilva/)
+[![Lattes](https://img.shields.io/badge/Lattes-Academic%20CV-176B91?style=for-the-badge)](http://lattes.cnpq.br/1449902596670082)
 
-### **Artificial Intelligence · Bioinformatics · Bioengineering**
+**Artificial Intelligence · Bioinformatics · Computational Drug Discovery**
 
-*Designing intelligent and reproducible computational methods for science, education, and drug discovery.*
+*Transforming complex computational methods into accessible, reproducible tools for scientific discovery.*
 
 </div>
 
----
+## About
 
-## About me
+I am a **university professor and researcher at CEFET-MG, Brazil**, working at the intersection of computer science, artificial intelligence, and bioengineering. My interests include high-throughput virtual screening, molecular modeling, cheminformatics, graph analytics, and scientific software engineering.
 
-I am a **university professor, researcher, and scientific software developer** at **CEFET-MG (Brazil)**. My work connects **artificial intelligence**, **bioinformatics**, **cheminformatics**, **molecular modeling**, and **scientific software engineering**, with emphasis on building accessible and reproducible tools for research.
+## Featured scientific projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mpiress.github.io/BioMolExplorer/"><img src="assets/biomolexplorer-card.svg" width="100%" alt="BioMolExplorer — molecular data, similarity, networks, docking and ADMET"/></a>
 <br/>
-
-## Research focus
-
-<table>
-<tr>
-<td width="33%" align="center">
-  <h3>🧠 Artificial Intelligence</h3>
-  <sub>Machine Learning · Deep Learning · Predictive Modeling</sub>
-</td>
-<td width="33%" align="center">
-  <h3>🧬 Bioinformatics & Bioengineering</h3>
-  <sub>Molecular Data · Computational Biology · Scientific Analysis</sub>
-</td>
-<td width="33%" align="center">
-  <h3>⚗️ Drug Discovery</h3>
-  <sub>Virtual Screening · Docking · Computational Pipelines</sub>
-</td>
-</tr>
-</table>
-
----
-
-## Featured platforms & research projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/🧪-BioMolExplorer-176B91?style=for-the-badge" alt="BioMolExplorer"/>
-
-**An integrated platform for molecular exploration and computer-aided drug discovery.**
-
-BioMolExplorer was designed to support molecular investigation workflows through a modern and modular environment, combining retrieval, analysis, validation, and prioritization of bioactive compounds.
-
-**Core capabilities**
-
-- 🔎 **Molecular retrieval** from scientific databases and chemical repositories  
-- 🧬 **Similarity analysis** using descriptors and molecular fingerprints  
-- 🌐 **Molecular network exploration** for relationship discovery  
-- ⚓ **Consensus docking** with tools such as AutoDock Vina and DOCK6  
-- 📈 **ADMET-oriented evaluation** to assist compound prioritization  
-
-[![Repository](https://img.shields.io/badge/Repository-View%20on%20GitHub-0D1117?style=flat-square&logo=github)](https://github.com/mpiress/BioMolExplorer)
-[![Website](https://img.shields.io/badge/Website-Official%20Project%20Page-0F766E?style=flat-square&logo=githubpages)](https://mpiress.github.io/BioMolExplorer/)
-
+<b>BioMolExplorer</b> is an integrated environment for exploring molecular information and supporting computer-aided drug discovery.
+<br/><br/>
+<a href="https://github.com/mpiress/BioMolExplorer"><img src="https://img.shields.io/badge/Source%20Code-GitHub-182E46?style=flat-square&logo=github" alt="BioMolExplorer repository"/></a>
+<a href="https://mpiress.github.io/BioMolExplorer/"><img src="https://img.shields.io/badge/Explore-Website-0F766E?style=flat-square" alt="BioMolExplorer website"/></a>
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/🧠-NeuroDock-0F766E?style=for-the-badge" alt="NeuroDock"/>
-
-**A deep learning framework for high-throughput docking score prediction.**
-
-NeuroDock explores how machine learning can accelerate virtual screening by learning consensus docking behavior and enabling scalable prediction for large molecular libraries.
-
-**Core capabilities**
-
-- 🧠 **Neural-network-based prediction** of docking-related scores  
-- 🧪 **Consensus docking modeling** with AutoDock Vina and DOCK6  
-- 🚀 **High-throughput prioritization** of candidate compounds  
-- 🎯 **Target-aware screening** for therapeutic applications  
-- 📊 **AI-driven decision support** for computational drug discovery  
-
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1F5B87?style=flat-square)
-![Consensus Docking](https://img.shields.io/badge/Consensus_Docking-0F766E?style=flat-square)
-![Virtual Screening](https://img.shields.io/badge/Virtual_Screening-34495E?style=flat-square)
-
-<!-- Add official NeuroDock repository or publication link here when publicly available. -->
-
+<img src="assets/neurodock-card.svg" width="100%" alt="NeuroDock — deep learning docking score prediction"/>
+<br/>
+<b>NeuroDock</b> is a deep learning framework for high-throughput prediction of consensus docking scores, combining molecular fingerprints and neural networks to accelerate compound prioritization.
+<br/><br/>
+<img src="https://img.shields.io/badge/Research-Deep%20Learning-176B91?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Domain-Virtual%20Screening-0F766E?style=flat-square" alt="Virtual Screening"/>
+<!-- Add a verified NeuroDock source-code or article URL when publicly available. -->
 </td>
 </tr>
 </table>
 
----
-
-## Project highlights in a visual format
+## What I build
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-  <h3>🔬</h3>
-  <b>Scientific workflows</b><br/>
-  <sub>Integrated pipelines for reproducible computational experimentation.</sub>
-</td>
-<td width="25%" align="center" valign="top">
-  <h3>🧪</h3>
-  <b>Molecular analysis</b><br/>
-  <sub>Descriptors, fingerprints, docking, and compound investigation.</sub>
-</td>
-<td width="25%" align="center" valign="top">
-  <h3>🧠</h3>
-  <b>AI for science</b><br/>
-  <sub>Machine learning and deep learning applied to scientific discovery.</sub>
-</td>
-<td width="25%" align="center" valign="top">
-  <h3>🌐</h3>
-  <b>Accessible software</b><br/>
-  <sub>Research-oriented tools designed to be clear, practical, and reusable.</sub>
-</td>
+<td width="33%" valign="top" align="center"><img src="assets/molecular-data.svg" width="100%" alt="Molecular data: retrieve, integrate, explore"/></td>
+<td width="33%" valign="top" align="center"><img src="assets/intelligent-models.svg" width="100%" alt="Intelligent models: learn, predict, prioritize"/></td>
+<td width="33%" valign="top" align="center"><img src="assets/scientific-workflows.svg" width="100%" alt="Reproducible science: automate, validate, share"/></td>
 </tr>
 </table>
 
----
-
-## Tools, themes & technical interests
+## Research ecosystem
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Scientific%20Computing-193A58?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI%20Models-176B91?style=for-the-badge)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Molecular%20Data-0F766E?style=for-the-badge)
-![Cheminformatics](https://img.shields.io/badge/Cheminformatics-Drug%20Discovery-355D82?style=for-the-badge)
-![Graph Analytics](https://img.shields.io/badge/Graph%20Analytics-Network%20Analysis-245A6B?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-173955?style=for-the-badge)
+![Bioengineering](https://img.shields.io/badge/Bioengineering-0F766E?style=for-the-badge)
+![Cheminformatics](https://img.shields.io/badge/Cheminformatics-235B83?style=for-the-badge)
+![Scientific Software](https://img.shields.io/badge/Scientific%20Software-16476A?style=for-the-badge)
 
 </div>
 
@@ -142,40 +67,33 @@ NeuroDock explores how machine learning can accelerate virtual screening by lear
 <tr>
 <td width="50%" valign="top">
 
-### Research directions
-- Computational drug discovery  
-- High-throughput virtual screening  
-- Consensus docking and predictive modeling  
-- Molecular data analysis and scientific reproducibility  
-- Graph-based methods and intelligent systems  
+### 🔬 Research
+
+**AI for scientific discovery** — machine learning and deep learning for predictive modeling and molecular investigation.
+
+**Structure-based drug discovery** — virtual screening, consensus docking, and prioritization of candidate compounds.
 
 </td>
 <td width="50%" valign="top">
 
-### Development directions
-- Research software and automation  
-- Accessible scientific tools  
-- Reproducible computational pipelines  
-- Educational and applied AI solutions  
-- Integration of data, models, and scientific workflows  
+### 🛠 Engineering
+
+**Scientific software** — accessible computational workflows integrating heterogeneous scientific tools and datasets.
+
+**Data & graphs** — exploration of relational structure, chemical similarity, and complex network patterns.
 
 </td>
 </tr>
 </table>
 
----
+## Connect & collaborate
 
-## Academic collaboration
-
-I am interested in collaborations involving **AI for science**, **bioinformatics**, **computational drug discovery**, and **scientific software development**.
-
-- 🎓 [Institutional profile](https://sig.cefetmg.br/sigaa/public/docente/portal.jsf?siape=2147282)
-- 📄 [Currículo Lattes](http://lattes.cnpq.br/1449902596670082)
-- 💼 [LinkedIn](https://www.linkedin.com/in/michelpiressilva/)
-
----
+Open to academic collaborations in **AI for science, computational molecular research, and research software**. Explore my [academic CV](http://lattes.cnpq.br/1449902596670082), [institutional profile](http://www.somos.cefetmg.br/professores/view/2818), or [LinkedIn](https://www.linkedin.com/in/michelpiressilva/).
 
 <div align="center">
-  <sub><b>Michel Pires da Silva</b> · Computer Science × Artificial Intelligence × Bioengineering</sub><br/>
-  <sub>Inspired by a card-based scientific presentation style for a cleaner and more modern profile.</sub>
+
+---
+
+<sub>MICHEL PIRES  /  COMPUTER SCIENCE × ARTIFICIAL INTELLIGENCE × BIOENGINEERING</sub>
+
 </div>
