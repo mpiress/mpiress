@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Michel Pires — Artificial Intelligence and Bioengineering" />
+<img src="assets/hero.svg" width="100%" alt="Michel Pires da Silva — Artificial Intelligence and Bioengineering" />
 
 <br/>
 <br/>
@@ -169,14 +169,13 @@ NeuroDock explores how machine learning can accelerate virtual screening by lear
 
 I am interested in collaborations involving **AI for science**, **bioinformatics**, **computational drug discovery**, and **scientific software development**.
 
-- 🎓 [Institutional profile](http://www.somos.cefetmg.br/professores/view/2818)
+- 🎓 [Institutional profile](https://sig.cefetmg.br/sigaa/public/docente/portal.jsf?siape=2147282)
 - 📄 [Currículo Lattes](http://lattes.cnpq.br/1449902596670082)
 - 💼 [LinkedIn](https://www.linkedin.com/in/michelpiressilva/)
-- 💻 [GitHub](https://github.com/mpiress)
 
 ---
 
 <div align="center">
-  <sub><b>Michel Pires</b> · Computer Science × Artificial Intelligence × Bioengineering</sub><br/>
+  <sub><b>Michel Pires da Silva</b> · Computer Science × Artificial Intelligence × Bioengineering</sub><br/>
   <sub>Inspired by a card-based scientific presentation style for a cleaner and more modern profile.</sub>
 </div>
